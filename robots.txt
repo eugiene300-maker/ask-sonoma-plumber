@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ask-a-sonoma-plumber.pages.dev/sitemap.xml
